@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: 关于我
+subtitle: 不要问我是谁 我就是我
 ---
 
 My name is Inigo Montoya. I have the following qualities:
